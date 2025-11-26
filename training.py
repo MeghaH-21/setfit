@@ -5,7 +5,7 @@ from datasets import Dataset
 # ===========================
 # Step 1: Load your dataset
 # ===========================
-with open("education_industry.json.json", "r") as f:  # your dataset file
+with open("education_industry.json", "r") as f:  # your dataset file
     data = json.load(f)
 
 # ===========================
