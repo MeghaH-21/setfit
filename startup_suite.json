@@ -1,0 +1,161 @@
+{
+  "industry": "Startup Suite (SaaS / Agencies / SMEs)",
+  "personas": [
+    {
+      "persona": "Pre-Sales / SDR Representative",
+      "goal": "Boost cold outreach productivity, increase meeting conversion rates",
+      "use_cases": {
+        "Initiate cold calls": [
+          "Reach out to new prospects with a cold call",
+          "Initiate a cold outreach for product introduction",
+          "Call a new lead to pitch the service for the first time"
+        ],
+        "Schedule demos": [
+          "Book a product demo with a potential customer",
+          "Confirm a demo meeting with the prospect",
+          "Invite leads to schedule a live product walkthrough"
+        ],
+        "Re-engage dormant leads": [
+          "Reconnect with leads who haven't responded",
+          "Follow up with inactive prospects",
+          "Revive engagement with old leads"
+        ],
+        "CRM updates": [
+          "Update CRM with lead status changes",
+          "Notify about new lead assignment",
+          "Inform team about updated prospect information in CRM"
+        ]
+      }
+    },
+    {
+      "persona": "Marketing Manager / Campaign Lead",
+      "goal": "Better lead nurturing, actionable campaign insights, consistency in outreach",
+      "use_cases": {
+        "Event invites": [
+          "Invite leads to join the upcoming webinar",
+          "Send event participation reminders",
+          "Notify customers about new product launch event"
+        ],
+        "Promotional campaigns": [
+          "Promote ongoing marketing offers",
+          "Share discount codes with prospects",
+          "Notify users about seasonal promotional campaigns"
+        ],
+        "Follow-ups after events": [
+          "Follow up with attendees after the event",
+          "Collect responses from people who joined the webinar",
+          "Engage leads who attended the product launch"
+        ],
+        "Brand surveys": [
+          "Collect responses for brand perception survey",
+          "Ask customers to fill out a quick brand survey",
+          "Initiate customer satisfaction survey for marketing insights"
+        ]
+      }
+    },
+    {
+      "persona": "HR Manager / Recruiter",
+      "goal": "Reduce time on early-stage calls, streamline onboarding, consistent engagement",
+      "use_cases": {
+        "Candidate screening": [
+          "Conduct initial screening questions with candidates",
+          "Verify candidate details before interview",
+          "Ask basic qualification questions to new applicants"
+        ],
+        "Interview scheduling": [
+          "Invite candidates to schedule an interview",
+          "Confirm interview timing with shortlisted candidates",
+          "Reschedule interview timings if needed"
+        ],
+        "Employee satisfaction calls": [
+          "Collect employee satisfaction feedback",
+          "Ask employees how they feel about workplace environment",
+          "Conduct routine employee happiness surveys"
+        ],
+        "Training reminders": [
+          "Remind employees about upcoming training program",
+          "Send alert for mandatory training session",
+          "Notify team about scheduled onboarding training"
+        ]
+      }
+    },
+    {
+      "persona": "Customer Support / Success Manager",
+      "goal": "Scale interaction capacity, faster response times, efficient escalation routing",
+      "use_cases": {
+        "Tier-1 support calls": [
+          "Handle first-level support queries",
+          "Respond to basic troubleshooting requests",
+          "Assist customers with initial support questions"
+        ],
+        "Ticket update notifications": [
+          "Notify customers about ticket status changes",
+          "Update users when their support ticket is resolved",
+          "Inform users about ticket progress"
+        ],
+        "Post-resolution feedback": [
+          "Request feedback after issue resolution",
+          "Ask customers about their support experience",
+          "Collect ratings after problem is fixed"
+        ],
+        "Renewal reminders": [
+          "Send reminder for subscription renewal",
+          "Notify customers about upcoming renewal date",
+          "Inform users that their plan is about to expire"
+        ]
+      }
+    },
+    {
+      "persona": "Founder / Department Head",
+      "goal": "Unified data-driven communication, measurable ROI, scalability",
+      "use_cases": {
+        "Cross-department reporting": [
+          "Request updates from multiple departments",
+          "Share unified performance reports",
+          "Notify teams about cross-department KPI submission"
+        ],
+        "Leadership updates": [
+          "Share strategic updates with leadership",
+          "Send monthly leadership summary",
+          "Inform executives about important organizational changes"
+        ],
+        "Investor communication": [
+          "Send company performance update to investors",
+          "Notify investors about upcoming review meeting",
+          "Share quarterly achievements with stakeholders"
+        ],
+        "Progress summaries": [
+          "Collect weekly progress updates",
+          "Send summary of project performance",
+          "Notify team to submit progress reports"
+        ]
+      }
+    },
+    {
+      "persona": "EdTech Founder / Marketing Head",
+      "goal": "Scale outreach, increase conversion from demo to paid users",
+      "use_cases": {
+        "Demo scheduling": [
+          "Invite learners to schedule a demo class",
+          "Remind users about their upcoming EdTech demo",
+          "Confirm demo session timing"
+        ],
+        "Free trial follow-ups": [
+          "Follow up with users after trial expiry",
+          "Remind free trial users to explore premium features",
+          "Engage users who completed their free trial"
+        ],
+        "Renewal prompts": [
+          "Notify students about course renewal",
+          "Send reminders for subscription renewal",
+          "Alert users about expiring course access"
+        ],
+        "Re-engaging dormant users": [
+          "Reach out to learners who stopped using the platform",
+          "Reconnect with inactive students",
+          "Re-engage users who haven't logged in recently"
+        ]
+      }
+    }
+  ]
+}

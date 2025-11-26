@@ -1,0 +1,110 @@
+{
+  "industry": "Healthcare Industry",
+  "personas": [
+    {
+      "persona": "Hospital Administrator / Operations Head",
+      "goal": "Reduce call handling pressure, timely patient communication, compliance",
+      "use_cases": {
+        "Appointment confirmations": [
+          "Confirm patient appointments automatically",
+          "Send reminder for the scheduled appointment",
+          "Notify patients about confirmed appointment timings"
+        ],
+        "Post-discharge instructions": [
+          "Share instructions after patient discharge",
+          "Send post-discharge care guidelines",
+          "Inform patients about steps to follow after leaving hospital"
+        ],
+        "Diagnostic alerts": [
+          "Notify patients when diagnostic reports are ready",
+          "Send alerts for lab test completion",
+          "Inform patients about urgent diagnostic findings"
+        ]
+      }
+    },
+    {
+      "persona": "Clinic Owner / Doctor",
+      "goal": "Minimize missed appointments, optimize efficiency, strengthen trust",
+      "use_cases": {
+        "Appointment confirmations": [
+          "Notify patients about their confirmed clinic appointment",
+          "Send appointment reminder for tomorrow",
+          "Confirm follow-up consultation timing"
+        ],
+        "Prescription refill notifications": [
+          "Remind patients to refill their prescription",
+          "Send alert when medication refill is due",
+          "Notify patients to renew chronic medication supplies"
+        ],
+        "Health check-up reminders": [
+          "Remind patients about scheduled health checkups",
+          "Send annual check-up reminder",
+          "Notify patients about overdue wellness checkups"
+        ]
+      }
+    },
+    {
+      "persona": "Front Desk Executive / Receptionist",
+      "goal": "Handle calls efficiently, reduce manual traffic, quick response times",
+      "use_cases": {
+        "New patient inquiry response": [
+          "Respond to new patient inquiries",
+          "Share clinic details with new patients",
+          "Provide answers to new patient questions"
+        ],
+        "Automatic appointment confirmation": [
+          "Send automatic confirmation for booked appointments",
+          "Notify patients that their appointment is confirmed",
+          "Confirm booking details through automated message"
+        ],
+        "Reschedule alerts": [
+          "Inform patients about appointment rescheduling",
+          "Send alert when doctor changes consultation time",
+          "Notify patients to reschedule missed appointments"
+        ]
+      }
+    },
+    {
+      "persona": "Healthcare Marketing Manager / CRM Executive",
+      "goal": "Increase engagement in preventive campaigns, track responses, measurable ROI",
+      "use_cases": {
+        "Vaccination reminders": [
+          "Send reminder for upcoming vaccination",
+          "Notify patients about due immunization",
+          "Alert parents about child vaccination schedules"
+        ],
+        "Awareness campaign calls": [
+          "Promote health awareness campaigns",
+          "Send alerts for preventive health drives",
+          "Notify patients about public health education programs"
+        ],
+        "Promotional health packages": [
+          "Notify patients about new health checkup offers",
+          "Promote seasonal healthcare packages",
+          "Share discount offers on diagnostic tests"
+        ]
+      }
+    },
+    {
+      "persona": "Patient Experience Officer / Quality Manager",
+      "goal": "Continuous feedback collection, improved satisfaction scores, faster service recovery",
+      "use_cases": {
+        "Post-treatment surveys": [
+          "Send survey after treatment completion",
+          "Collect patient feedback post-visit",
+          "Request feedback on recovery experience"
+        ],
+        "Complaint escalation": [
+          "Escalate patient complaints automatically",
+          "Notify team about a new patient grievance",
+          "Send alert when patient is dissatisfied"
+        ],
+        "Service rating collection": [
+          "Collect ratings for hospital service quality",
+          "Ask patient to rate their experience",
+          "Request review after consultation"
+        ]
+      }
+    }
+  ]
+}

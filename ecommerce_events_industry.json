@@ -1,0 +1,135 @@
+{
+  "industry": "E-Commerce / Events Industry",
+  "personas": [
+    {
+      "persona": "E-Commerce Operations Head / Supply Chain Manager",
+      "goal": "Transparency in order journey, fewer customer queries, automated logistics",
+      "use_cases": {
+        "Order confirmations": [
+          "Send confirmation for new orders",
+          "Notify customers that their order has been placed",
+          "Confirm the recent purchase with the customer"
+        ],
+        "Delivery status calls": [
+          "Update the customer about their delivery",
+          "Call to notify about shipment status",
+          "Inform users when their order is out for delivery"
+        ],
+        "Refund/return alerts": [
+          "Notify customers about refunded orders",
+          "Inform users that their return has been processed",
+          "Send alert for successful refund"
+        ],
+        "Restock notifications": [
+          "Notify when a product is back in stock",
+          "Send restock alert for previously sold-out items",
+          "Inform customers about item availability"
+        ]
+      }
+    },
+    {
+      "persona": "Marketing Director / Campaign Strategist",
+      "goal": "Optimize campaign ROI, personalize outreach, re-engage abandoned carts",
+      "use_cases": {
+        "Flash sale calls": [
+          "Inform customers about ongoing flash sales",
+          "Call users to notify about special discounts",
+          "Promote limited-time sales events"
+        ],
+        "Abandoned cart reminders": [
+          "Remind users about items left in their cart",
+          "Send notification for incomplete purchase",
+          "Prompt customers to complete checkout"
+        ],
+        "Loyalty campaign invites": [
+          "Invite customers to loyalty programs",
+          "Notify users about reward points",
+          "Promote special offers for loyal customers"
+        ],
+        "Promo expiration alerts": [
+          "Warn users about expiring discounts",
+          "Send alert for ending promotions",
+          "Notify about limited-time offers ending soon"
+        ]
+      }
+    },
+    {
+      "persona": "Event Organizer / Registration Manager",
+      "goal": "Maximize registrations, timely attendee communication, efficient post-event data",
+      "use_cases": {
+        "Registration confirmations": [
+          "Confirm attendee registration",
+          "Send confirmation for event sign-up",
+          "Notify users their registration is successful"
+        ],
+        "Session reminders": [
+          "Remind attendees about upcoming sessions",
+          "Send alerts for event schedule",
+          "Notify users about session start times"
+        ],
+        "Post-event feedback requests": [
+          "Ask attendees for event feedback",
+          "Send survey for post-event experience",
+          "Collect feedback on sessions attended"
+        ],
+        "Invitations to future events": [
+          "Invite participants to upcoming events",
+          "Notify users about future workshops or webinars",
+          "Promote new events to past attendees"
+        ]
+      }
+    },
+    {
+      "persona": "Customer Experience Head / Support Lead",
+      "goal": "Improve satisfaction metrics, better complaint tracking, customer retention",
+      "use_cases": {
+        "Post-purchase feedback calls": [
+          "Call customers for feedback after purchase",
+          "Ask about satisfaction with their recent order",
+          "Collect user opinions about the product/service"
+        ],
+        "Complaint acknowledgments": [
+          "Acknowledge customer complaints",
+          "Confirm receipt of issue reported",
+          "Notify users that their complaint is being handled"
+        ],
+        "Warranty reminders": [
+          "Remind customers about warranty expiry",
+          "Notify users about warranty coverage for purchased items",
+          "Send alerts for product warranty checks"
+        ],
+        "Churn recovery": [
+          "Reach out to inactive customers",
+          "Offer promotions to retain customers",
+          "Encourage users to return and engage again"
+        ]
+      }
+    },
+    {
+      "persona": "Brand Owner / Marketplace Seller",
+      "goal": "Automate buyer communication, improve feedback, maintain brand reliability",
+      "use_cases": {
+        "Order dispatch updates": [
+          "Notify customers when order is shipped",
+          "Send updates for delivery progress",
+          "Inform users about dispatch details"
+        ],
+        "Payment confirmations": [
+          "Confirm successful payments",
+          "Send receipt to customers",
+          "Notify users their payment went through"
+        ],
+        "Review requests": [
+          "Ask customers to leave a review",
+          "Request feedback on purchased product",
+          "Encourage users to rate their experience"
+        ],
+        "Re-purchase prompts": [
+          "Suggest reorder for frequently bought items",
+          "Send reminders for replenishable products",
+          "Promote products for repeat purchases"
+        ]
+      }
+    }
+  ]
+}

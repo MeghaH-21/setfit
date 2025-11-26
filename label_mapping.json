@@ -1,0 +1,15 @@
+{
+  "Activity announcements": 0,
+  "Admission inquiry management": 1,
+  "Attendance alerts": 2,
+  "Callback scheduling": 3,
+  "Emergency alerts": 4,
+  "Fee payment reminders": 5,
+  "Homework/exam notifications": 6,
+  "Lead qualification": 7,
+  "Meeting reminders": 8,
+  "Performance summaries": 9,
+  "Promotional campaigns": 10,
+  "Renewals": 11,
+  "Schedule reminders": 12
+}

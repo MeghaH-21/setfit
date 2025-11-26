@@ -1,0 +1,94 @@
+{
+  "industry": "Education Industry",
+  "personas": [
+    {
+      "persona": "School Principal / Headmaster",
+      "goal": "Streamline parent communication, maintain transparency",
+      "use_cases": {
+        "Meeting reminders": [
+          "Remind parents about upcoming parent-teacher meetings",
+          "Notify parents about scheduled school meetings",
+          "Send reminder for the school meeting tomorrow"
+        ],
+        "Performance summaries": [
+          "Inform parents about their child's academic performance",
+          "Share monthly performance reports with parents",
+          "Send summary of student progress for this term"
+        ],
+        "Emergency alerts": [
+          "Notify parents about urgent school announcements",
+          "Send emergency alert regarding sudden holidays",
+          "Inform parents about unexpected safety-related updates"
+        ]
+      }
+    },
+    {
+      "persona": "School Administrator / Admissions Officer",
+      "goal": "Handle inquiries efficiently, multilingual support, faster fee collection",
+      "use_cases": {
+        "Admission inquiry management": [
+          "Respond to new admission inquiries",
+          "Provide details about admission process",
+          "Follow up with parents who asked about admissions"
+        ],
+        "Fee payment reminders": [
+          "Remind parents about pending school fees",
+          "Notify parents regarding due fee payment",
+          "Send alert for monthly fee submission"
+        ],
+        "Callback scheduling": [
+          "Schedule a call with parents for detailed discussion",
+          "Arrange a callback regarding admission process",
+          "Confirm callback timing requested by parent"
+        ]
+      }
+    },
+    {
+      "persona": "Educational Business Owner",
+      "goal": "Standardize communication across locations, boost conversion rates",
+      "use_cases": {
+        "Lead qualification": [
+          "Qualify leads for course enrollment",
+          "Identify interested students for new programs",
+          "Verify if the lead is ready for joining the course"
+        ],
+        "Promotional campaigns": [
+          "Notify learners about new discount offers",
+          "Promote latest training programs",
+          "Send updates about limited-time education offers"
+        ],
+        "Schedule reminders": [
+          "Remind learners about their class timings",
+          "Notify about scheduled online sessions",
+          "Send alerts for upcoming training sessions"
+        ],
+        "Renewals": [
+          "Remind students to renew their course subscription",
+          "Notify learners about membership renewal",
+          "Prompt users to extend their training plan"
+        ]
+      }
+    },
+    {
+      "persona": "Teacher / Teaching Assistant",
+      "goal": "Proactive parent communication, ensure higher attendance, save time",
+      "use_cases": {
+        "Attendance alerts": [
+          "Notify parents about student absence",
+          "Send alert when a student misses class",
+          "Inform parents about irregular attendance"
+        ],
+        "Homework/exam notifications": [
+          "Send homework reminder to parents",
+          "Notify about upcoming exams or tests",
+          "Share details about assigned homework"
+        ],
+        "Activity announcements": [
+          "Announce school activities to parents",
+          "Notify about upcoming competitions or events",
+          "Share details of classroom activities"
+        ]
+      }
+    }
+  ]
+}
